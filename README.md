@@ -1,16 +1,18 @@
-## Hi there 👋
+![Eana Hufwe](https://github.com/blueset/blueset/raw/cda8ec1230cbee16a3a7dc52a4b2272619588233/EanaHandwritingAnimated.svg)
 
-<!--
-**E-Tech512/E-Tech512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+A software engineer loves building tools, design, typography and Vocaloid.<br>
+<br>
+<a href="https://1a23.com">Portfolio Site</a>
+ · <a href="https://blog.1a23.com">Blog</a>
+ · <a href="https://twitter.com/blueset">Twitter</a>
+<br>
+<br>
+<br>
+<br>
+</p>
 
-Here are some ideas to get you started:
+-----
+Credits: [Eana Hufwe](https://github.com/blueset)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Last Edited on: 25/11/2020
