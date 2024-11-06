@@ -1,3 +1,4 @@
+<body style="font-family: 'Arial', sans-serif; margin: 0; padding: 0; background: linear-gradient(135deg, #0E1218, #131923, #151D29, #171F2B, #192331, #5B73A2); color: #fff; text-align: center;">
 
 <header style="padding: 50px; background-color: #32A8BB; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);">
     <h1 style="font-size: 3.5em; margin: 0; animation: fadeIn 2s ease-in-out;">Hi, I'm Gozu</h1>
@@ -27,3 +28,5 @@
     <a href="https://www.linkedin.com/in/gozu" target="_blank" style="text-decoration: none; color: #fff; background-color: #5B73A2; padding: 15px 30px; margin: 10px; border-radius: 5px; font-size: 1.2em; transition: 0.3s;">Connect on LinkedIn</a>
     <a href="mailto:gozu@example.com" target="_blank" style="text-decoration: none; color: #fff; background-color: #5B73A2; padding: 15px 30px; margin: 10px; border-radius: 5px; font-size: 1.2em; transition: 0.3s;">Email Me</a>
 </div>
+
+</body>
